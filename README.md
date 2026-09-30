@@ -39,3 +39,11 @@ All code is in `eeg_read_bdf/`:
 ## Context
 
 M.S. graduate paper, *Detection of Mental State of a Human Using EEG Signals*, Department of Electrical and Microelectronic Engineering, Rochester Institute of Technology, April 2020. Also on [Portfolium](https://portfolium.com/entry/emotion-detection-using-eeg-signals).
+
+## License
+
+This project is released under the [PolyForm Noncommercial License 1.0.0](LICENSE). You may use, modify and share it for **noncommercial purposes**, including academic research, teaching and personal study. Commercial use needs separate permission from the author.
+
+Required Notice: Copyright (c) 2020 Sriparvathi Shaji Bhattathiri
+
+Third-party code in this repository keeps its original license. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
